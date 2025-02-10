@@ -13,3 +13,4 @@
 
     2. Place your insert queries below this comment
 */
+INSERT INTO`tblStudents`(`student_name`, `student_email`, `student_phone`) VALUES ('Johndoe','johndoe@gmail.com','123-456-7890'), ('Janedoe','janedoe@gmail.com','123-456-7890');
